@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guyasong7
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on you
+- 💞️ I’m looking to collaborate with you
 - 📫 How to reach me guyasong3@gmail.com
 
 <!---
