@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me guyasong2@gmail.com
-- visit my website https://guyasong.w3spaces.com/
+- visit my website https://237hub.blogspot.com/
 
 <!---
 guyasong7/guyasong7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
